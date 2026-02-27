@@ -1,0 +1,18 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "ddb51323319da082795063933595e5c6",
+    "url": "/Keeper-Note/index.html"
+  },
+  {
+    "revision": "bc30d10ad44be2149deb",
+    "url": "/Keeper-Note/static/js/2.0e0b84e3.chunk.js"
+  },
+  {
+    "revision": "26effadae3acdae2e088",
+    "url": "/Keeper-Note/static/js/main.139f954e.chunk.js"
+  },
+  {
+    "revision": "61c88185cc5e7e59de43",
+    "url": "/Keeper-Note/static/js/runtime-main.125f4b58.js"
+  }
+]);
